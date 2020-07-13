@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on LAIX
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about Python, Golang, Rust
+- 📫 How to reach me: ligs.cn@gmail.com
