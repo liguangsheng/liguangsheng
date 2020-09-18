@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [![liguangsheng's github stats](https://github-readme-stats.vercel.app/api?username=liguangsheng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liguangsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liguangsheng&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
