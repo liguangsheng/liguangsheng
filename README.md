@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Python, Golang, Rust
 - 📫 How to reach me: ligs.cn@gmail.com
+
+[![liguangsheng's github stats](https://github-readme-stats.vercel.app/api?username=liguangsheng)](https://github.com/anuraghazra/github-readme-stats)
